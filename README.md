@@ -48,7 +48,7 @@ Building an effective MCP application is harder than it looks. FastMCP handles a
 
 **That's why FastMCP is the standard framework for working with MCP.** FastMCP 1.0 was incorporated into the official MCP Python SDK in 2024. Today, the actively maintained standalone project is downloaded a million times a day, and some version of FastMCP powers 70% of MCP servers across all languages.
 
-FastMCP has three pillars:
+FastMCP has three pillars
 
 <table>
 <tr>
